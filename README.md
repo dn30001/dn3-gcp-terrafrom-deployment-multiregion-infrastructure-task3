@@ -1,4 +1,4 @@
-# Multi-Region GCP Enterprise Networking and Compute Deployment Project
+# Multi-Region GCP Enterprise Networking and Compute Deployment
 
 This Terraform project is a <b>multi-region cloud infrastructure deployment</b> in Google Cloud Platform that simulates a globally distributed enterprise environment across Europe, the Americas, and Asia. 
 <br> 
